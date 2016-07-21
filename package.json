@@ -1,0 +1,28 @@
+{
+  "name": "honey-cli",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./bin/honey-cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeyframework/honey-cli.git"
+  },
+  "bin": "./bin/honey-cli.js",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honeyframework/honey-cli/issues"
+  },
+  "homepage": "https://github.com/honeyframework/honey-cli#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cli-rc": "^1.0.12",
+    "invariant": "^2.2.1",
+    "resolve": "^1.1.7",
+    "stylus": "^0.54.5",
+    "yargs": "^4.6.0"
+  },
+  "devDependencies": {
+    "resolve": "^1.1.7"
+  }
+}
