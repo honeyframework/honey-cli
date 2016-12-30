@@ -9,7 +9,7 @@
   },
   "bin": "./bin/honey-cli.js",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/honeyframework/honey-cli/issues"
   },
